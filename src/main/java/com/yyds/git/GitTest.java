@@ -9,5 +9,6 @@ public class GitTest {
         System.out.println("hellogit");
         System.out.println("hellogit2");
         System.out.println("hellogit3");
+        System.out.println("hellogit4");
     }
 }
